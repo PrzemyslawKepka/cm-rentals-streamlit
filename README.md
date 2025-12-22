@@ -68,13 +68,3 @@ Configure the schema and exact table names in `property_map/db.py` via `SCHEMA`,
 - Paste a Google Maps URL. The app supports patterns like `!3d<lat>!4d<lon>` and `@<lat>,<lon>`.
 - Submit to save the listing to Supabase.
 
-### SEO & Search Engine Optimization
-
-The app includes SEO optimizations for search engine discovery:
-- `robots.txt` - Allows search engines to crawl the site
-- `sitemap.xml` - Helps search engines understand site structure
-- Meta tags for social media sharing (Open Graph, Twitter Cards)
-- Optimized page titles and descriptions
-- Mobile-friendly responsive design
-
-
