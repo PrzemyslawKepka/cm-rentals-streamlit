@@ -2,6 +2,8 @@
 
 A Streamlit web application aimed at helping travellers, expats and digital nomads find monthly rentals in Chiang Mai, Thailand.
 
+<img src="images/cm_rentals_st.png" alt="Streamlit_version" width="500" />
+
 **Part of a migration journey:** This is the public Streamlit version, currently deployed as a backup. See [cm-rentals-flask](https://github.com/PrzemyslawKepka/cm-rentals-flask) for the production SEO-optimized version.
 
 ## About
@@ -45,8 +47,6 @@ Read more: Blog post about the migration (coming soon)
 - Visualize saved listings on an interactive map
 - Filter by price and availability status
 - View detailed property information with images
-
-<img src="images/cm_rentals_st.png" alt="Streamlit_version" width="500" />
 
 ## Tech Stack
 
