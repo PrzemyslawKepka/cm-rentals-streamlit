@@ -46,7 +46,7 @@ Read more: Blog post about the migration (coming soon)
 - Filter by price and availability status
 - View detailed property information with images
 
-<img src="https://github.com/PrzemyslawKepka/property-map/blob/main/images/property_map.png" />
+<img src="images/cm_rentals_st.png" alt="Streamlit_version" width="500" />
 
 ## Tech Stack
 
