@@ -139,7 +139,7 @@ Note: Despite these optimizations, Streamlit has inherent SEO limitations, which
 ## Contributing
 
 As this version is deprecated right now, it will mostly serve purposes of being a portfolio project,
-showing the evolution story of the projects as whole (property-map -> cm-rentals-streamlit -> cm-rentals-flask).
+showing the evolution story of the project as a whole (property-map -> cm-rentals-streamlit -> cm-rentals-flask).
 However, potential suggestions our bug reports are still welcome via GitHub Issues.
 
 ## License
