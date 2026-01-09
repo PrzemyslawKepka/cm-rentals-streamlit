@@ -18,6 +18,11 @@ This project is part of a larger evolution story:
 2. **[cm-rentals-streamlit](https://github.com/PrzemyslawKepka/cm-rentals-streamlit)** (this repo) - Specialized Streamlit version (backup deployment)
 3. **[cm-rentals-flask](https://github.com/PrzemyslawKepka/cm-rentals-flask)** - Flask migration for SEO optimization (production version)
 
+## Live Demos
+
+- **Backup (Streamlit):** [https://cmrentals.tojest.dev](https://cmrentals.tojest.dev) - this repo
+- **Production (Flask):** [https://cm-rentals.com](https://cm-rentals.com)
+
 ## Why Streamlit → Flask?
 
 **When I chose Streamlit (this version):**
@@ -36,11 +41,6 @@ This project is part of a larger evolution story:
 **Both versions are live:** Streamlit as backup, Flask as production.
 
 Read more: Blog post about the migration (coming soon)
-
-## Live Demos
-
-- **Backup (Streamlit):** [https://cmrentals.tojest.dev](https://cmrentals.tojest.dev) - this repo
-- **Production (Flask):** [https://cm-rentals.com](https://cm-rentals.com)
 
 ## Core Features
 
