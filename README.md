@@ -39,7 +39,7 @@ Read more: Blog post about the migration (coming soon)
 
 ## Live Demos
 
-- **Backup (Streamlit):** [https://cmrentals.tojest.dev](https://cmrentals.tojest.dev) (this version, when deployed)
+- **Backup (Streamlit):** [https://cmrentals.tojest.dev](https://cmrentals.tojest.dev)
 - **Production (Flask):** [https://cm-rentals.com](https://cm-rentals.com)
 
 ## Core Features
