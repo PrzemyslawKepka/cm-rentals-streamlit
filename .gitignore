@@ -34,3 +34,10 @@ Thumbs.db
 
 # SEO documentation (internal only)
 SEO_*
+
+# Docker
+docker-compose.override.yml
+
+# nginx
+nginx/
+*.conf*
