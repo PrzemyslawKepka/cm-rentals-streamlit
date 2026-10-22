@@ -4,7 +4,7 @@ A Streamlit web application aimed at helping travellers, expats and digital noma
 
 <img src="images/cm_rentals_st.png" alt="Streamlit_version" width="500" />
 
-**Part of a migration journey:** This is the public Streamlit version, currently deployed as a backup. See [cm-rentals-flask](https://github.com/PrzemyslawKepka/cm-rentals-flask) for the production SEO-optimized version.
+**Part of a migration journey:** This is the legacy Streamlit version, kept live on Streamlit Cloud as a backup. See [cm-rentals-flask](https://github.com/PrzemyslawKepka/cm-rentals-flask) for the production SEO-optimized version.
 
 ## About
 
@@ -20,7 +20,7 @@ This project is part of a larger evolution story:
 
 ## Live Demos
 
-- **Backup (Streamlit):** [https://cmrentals.tojest.dev](https://cmrentals.tojest.dev) - this repo
+- **Backup (Streamlit):** [https://cm-rentals.streamlit.app](https://cm-rentals.streamlit.app) - this repo, on Streamlit Cloud
 - **Production (Flask):** [https://cm-rentals.com](https://cm-rentals.com)
 
 ## Why Streamlit → Flask?
@@ -53,7 +53,7 @@ Read more: Blog post about the migration (coming soon)
 - **Framework:** Streamlit for the UI and page navigation
 - **Database:** Supabase (PostgreSQL + API) for persistence
 - **Mapping:** Folium for map rendering
-- **Hosting:** mikr.us VPS with IPv6 + Cloudflare for IPv4 access
+- **Hosting:** Streamlit Cloud (free tier). The self-hosted copy on a mikr.us VPS was retired in October 2026; `cmrentals.tojest.dev` now redirects to Streamlit Cloud.
 - **Python:** 3.11
 
 ## Setup & Installation
