@@ -50,6 +50,8 @@ Read more: Blog post about the migration (coming soon)
 
 ## Tech Stack
 
+[![CM-Rentals (Streamlit): tech stack diagram made with tekyous.dev](https://img.tekyous.dev/d/RWavumM7kyfdTVHYD3upqQ/v1.VZBBSwMxEIX_yjKCKGwPvZXeRBEFC6JHKTLNzm5Dk0xMJoVS-t9NVuOuxzd58-W9OUPPwaLAGoQOJ05x0WkcAlpo4UghanawXrYgWgxl1_1m8UZO0MTm5l0CoTVabrN5CJx8hPXHGXSXjeg9TGt3o1JsOGRFlgKarrwzm7IE_iT7_FULsUJhe2l_WRYzeYJtsmyumwcUnEHj4fQPiK7DCNtsSFHYTsl6NjqVfg5twT1WrdDL2BeeneSESvSRmhfC3pA0JUTTB7bNa82q1egeDO8oSx-00m7IE_bkPiOnoAguU4_uJ3HtUQrsMNKsxNVquVL9al4kJl9dnqMMgeKXmR1nn4fl14n79Dep2MDj_sSsR14ow6nLtO3lGw.png)](https://tekyous.dev/builder?utm_source=mcp&utm_medium=readme#doc=v1.VZBBSwMxEIX_yjKCKGwPvZXeRBEFC6JHKTLNzm5Dk0xMJoVS-t9NVuOuxzd58-W9OUPPwaLAGoQOJ05x0WkcAlpo4UghanawXrYgWgxl1_1m8UZO0MTm5l0CoTVabrN5CJx8hPXHGXSXjeg9TGt3o1JsOGRFlgKarrwzm7IE_iT7_FULsUJhe2l_WRYzeYJtsmyumwcUnEHj4fQPiK7DCNtsSFHYTsl6NjqVfg5twT1WrdDL2BeeneSESvSRmhfC3pA0JUTTB7bNa82q1egeDO8oSx-00m7IE_bkPiOnoAguU4_uJ3HtUQrsMNKsxNVquVL9al4kJl9dnqMMgeKXmR1nn4fl14n79Dep2MDj_sSsR14ow6nLtO3lGw)
+
 - **Framework:** Streamlit for the UI and page navigation
 - **Database:** Supabase (PostgreSQL + API) for persistence
 - **Mapping:** Folium for map rendering
