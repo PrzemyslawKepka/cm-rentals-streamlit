@@ -50,7 +50,7 @@ Read more: Blog post about the migration (coming soon)
 
 ## Tech Stack
 
-[![CM-Rentals (Streamlit): tech stack diagram made with tekyous.dev](images/tech_stack_diagram.png)](https://tekyous.dev/builder?utm_source=mcp&utm_medium=readme#doc=v1.VZDBSgMxEIZfJYwgCttDb6U3UUTBguhRiozZ7DY0yYRkUiilz-DRo68hvpQ-gsnWNfX4T_755v-zg46CRYY5sFpvKcVJq7EPaKGBjQpRk4P5tAHWbFR2XS4mD8oxmijOHjkotEbzeTb3gZKPMH_agW6zEb2HunYxKEmGQlbKqoCmLe9EpiyB3_Iqn2ogjlBY7ptflsVMrrBFluJUXCHjETSut_-A6FqMsMyGFJlsTdaR0an0c2gL7nrUEj0PfeHWcU4oWW-UuFPYGcWihBBdICvux6xaDu7v97fPr4_XPPBBS-36PCOv3HOkFKSCfW3SHjKPTUqFF4zqqMbJbDqT3ey4Skz-4KqcFUUuhyrq5m8ykgIN4IoZf3YiDaU205b7Hw)
+[![CM-Rentals (Streamlit): tech stack diagram made with tekyous.dev](images/tech_stack_diagram.png)](https://tekyous.dev/builder?utm_source=mcp&utm_medium=readme#doc=v1.VZDBSgMxFEV_JTxBFKaL7kp3ooiCBdGlFHlmMtPQJC8kL4VS-g0uXfob4k_pJ5hMjVOX986d8-7NDjoKFhnmwGq9pRQnrcY-oIUGNipETQ7m0wZYs1E5dbmYPCjHaKI4e-Sg0BrN5zmMRveuYMhn1QdKPsL8aQe6zS764lbIxaAkGQpZKasCmrZ8JzLlJ_BbXuXDDcR6Apb75pdlMZNH2CJLcSqukPEIGtfbf0B0LUZY5kCKTHZs1pHRqax1aAvuumqJnof1cOs4N5SsN0rcKeyMYlFKiC6QFfe1q5ZD-vv97fPr4zUbPmipXZ898so9R0pBKtiPS9pD57qkTHjBqI5mnMymM9nNjqfE5A-pkbOiyOXQiLr5cyop0AAeMfVlJ9JQajNtuf8B)
 
 *Tech stack diagram made with [Tekyous](https://tekyous.dev?utm_source=mcp&utm_medium=readme), a tech stack builder and developer tools directory. Click the image to view or edit it in the builder.*
 
